@@ -70,5 +70,11 @@
     "file",
     "fsevents"
   ],
-  "funding": "https://paulmillr.com/funding/"
+  "funding": "https://paulmillr.com/funding/",
+  "overrides": {
+    "picomatch": ">=2.3.2"
+  },
+  "resolutions": {
+    "picomatch": ">=2.3.2"
+  }
 }
