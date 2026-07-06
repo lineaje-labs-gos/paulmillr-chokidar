@@ -1,12 +1,16 @@
 {
   "name": "chokidar",
   "description": "Minimal and efficient cross-platform file watching library",
-  "version": "3.6.0",
+  "version": "3.6.0-lineaje-01",
   "homepage": "https://github.com/paulmillr/chokidar",
   "author": "Paul Miller (https://paulmillr.com)",
   "contributors": [
     "Paul Miller (https://paulmillr.com)",
-    "Elan Shanker"
+    "Elan Shanker",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
   "engines": {
     "node": ">= 8.10.0"
@@ -44,7 +48,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/paulmillr/chokidar.git"
+    "url": "https://github.com/lineaje-labs-gos/paulmillr-chokidar"
   },
   "bugs": {
     "url": "https://github.com/paulmillr/chokidar/issues"
